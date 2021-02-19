@@ -43,6 +43,13 @@ AllowRootDirectory=True
 EnableDirDoesntExistWarning=True
 LanguageDetectionMethod=locale
 VersionInfoVersion=0.6.16.5775
+AppCopyright=Youthcat Studio
+DefaultGroupName=Youthcat Studio
+VersionInfoCompany=Youthcat Studio
+VersionInfoCopyright=Youthcat Studio
+VersionInfoProductName=Dyson Sphere Program
+VersionInfoProductVersion=0.6.16.5775
+CompressionThreads=2
 
 [LangOptions]
 LanguageID=$0419
