@@ -1,0 +1,2 @@
+/UI Root/Overlay Canvas/Galaxy Select/virtual-starmap-ui/star-name-text(Clone)=ChangeFontSizeByPercentage(2)
+/UI Root/Overlay Canvas/In Game/Common Tools/In Hand/group/item-text=ChangeFontSizeByPercentage(2)
