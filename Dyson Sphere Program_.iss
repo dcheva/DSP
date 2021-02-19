@@ -34,8 +34,7 @@ OutputBaseFilename=Dyson Sphere Program
 OutputDir=Output
 ; Directive "WizardSmallImageBackColor" was modified for purposes of Graphical Installer.
 WizardSmallImageBackColor={#GraphicalInstallerUI}
-Compression=lzma2/fast
-InternalCompressLevel=fast
+InternalCompressLevel=max
 WizardStyle=modern
 LicenseFile=C:\tmp\_NSIS\Dyson Sphere Program\CCCL.txt
 DisableDirPage=no
@@ -99,15 +98,15 @@ Name: "mods"; Description: "Моды (DSP Modding)"; Types: full
 [Files]
 Source: "C:\tmp\_NSIS\Dyson Sphere Program\*"; DestDir: "{app}"; Flags: ignoreversion createallsubdirs recursesubdirs; Components: core
 Source: "C:\tmp\_NSIS\BepInEx\*"; DestDir: "{app}\BepInEx"; Flags: ignoreversion createallsubdirs recursesubdirs; Components: ru
-Source: "C:\tmp\_NSIS\DSP Modding pack\*"; DestDir: "{app}\BepInEx\plugins"; Flags: ignoreversion createallsubdirs recursesubdirs; Components: mods
+Source: "C:\tmp\_NSIS\DSP Modding pack\*"; DestDir: "{app}\BepInEx\plugins\DSP Modding pack\"; Flags: ignoreversion createallsubdirs recursesubdirs; Components: mods
 
 [Tasks]
 Name: startmenu; Description: "Create a &menu icon"; GroupDescription: "Additional icons:"; Components: core
 Name: desktopicon; Description: "Create a &desktop icon"; GroupDescription: "Additional icons:"; Components: core
 
 [Icons]
-Name: "{group}\Dyson Sphere Program"; Filename: "{app}\Icon.ico"; Components: core; Tasks: startmenu   
-Name: "{commondesktop}\Dyson Sphere Program"; Filename: "{app}\Icon.ico"; Components: core; Tasks: desktopicon
+Name: "{group}\Dyson Sphere Program"; Filename: "{app}\DSPGAME.exe"; Components: core; Tasks: startmenu   
+Name: "{commondesktop}\Dyson Sphere Program"; Filename: "{app}\DSPGAME.exe"; Components: core; Tasks: desktopicon
 Name: "{group}\Удалить Dyson Sphere Program"; Filename: "{uninstallexe}"
 
 // End of file (EOF)
