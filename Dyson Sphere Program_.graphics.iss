@@ -18,8 +18,8 @@
 #define public GraphicalInstallerUI "GraphicalInstallerUI"
  
 ; Texts colors
-#define public TextsColor    "$FFFF88"
-#define public HeadersColor  "$FFFFFF"
+#define public TextsColor    "$FFFFFF"
+#define public HeadersColor  "$FFFF88"
 #define public InversedColor "$88FFFF"
  
 ; Buttons colors

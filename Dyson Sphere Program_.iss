@@ -28,16 +28,21 @@
 AppName=Dyson Sphere Program
 AppVersion=0.6.16.5775
 DefaultDirName={autopf}\Dyson Sphere Program
-AppPublisher=
+AppPublisher=Cheva
 AppPublisherURL=
 OutputBaseFilename=Dyson Sphere Program
-PrivilegesRequired=lowest
 OutputDir=Output
 ; Directive "WizardSmallImageBackColor" was modified for purposes of Graphical Installer.
 WizardSmallImageBackColor={#GraphicalInstallerUI}
 Compression=lzma2/fast
 InternalCompressLevel=fast
 WizardStyle=modern
+LicenseFile=C:\tmp\_NSIS\Dyson Sphere Program\CCCL.txt
+DisableDirPage=no
+AllowRootDirectory=True
+EnableDirDoesntExistWarning=True
+LanguageDetectionMethod=locale
+VersionInfoVersion=0.6.16.5775
 
 [LangOptions]
 LanguageID=$0419
@@ -45,6 +50,9 @@ DialogFontSize=10
 WelcomeFontSize=14
 TitleFontSize=30
 CopyrightFontSize=10
+
+[Languages]
+Name: "Russian"; MessagesFile: "compiler:Languages\Russian.isl"
 
 [Code]
 // Next function is used for proper working of Graphical Installer powered installer
