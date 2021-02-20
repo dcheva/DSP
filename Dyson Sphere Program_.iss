@@ -36,7 +36,7 @@ OutputDir=Output
 WizardSmallImageBackColor={#GraphicalInstallerUI}
 InternalCompressLevel=max
 WizardStyle=modern
-LicenseFile=C:\tmp\_NSIS\Dyson Sphere Program\CCCL.txt
+LicenseFile=C:\Projects\ISS\Dyson Sphere Program\CCCL.txt
 DisableDirPage=no
 AllowRootDirectory=True
 EnableDirDoesntExistWarning=True
@@ -96,9 +96,9 @@ Name: "ru"; Description: "Русификатор (Universal game translator)"; T
 Name: "mods"; Description: "Моды (DSP Modding)"; Types: full
 
 [Files]
-Source: "C:\tmp\_NSIS\Dyson Sphere Program\*"; DestDir: "{app}"; Flags: ignoreversion createallsubdirs recursesubdirs; Components: core
-Source: "C:\tmp\_NSIS\BepInEx\*"; DestDir: "{app}\BepInEx"; Flags: ignoreversion createallsubdirs recursesubdirs; Components: ru
-Source: "C:\tmp\_NSIS\DSP Modding pack\*"; DestDir: "{app}\BepInEx\plugins\DSP Modding pack\"; Flags: ignoreversion createallsubdirs recursesubdirs; Components: mods
+Source: "C:\Projects\ISS\Dyson Sphere Program\*"; DestDir: "{app}"; Flags: ignoreversion createallsubdirs recursesubdirs; Components: core
+Source: "C:\Projects\ISS\BepInEx\*"; DestDir: "{app}\BepInEx"; Flags: ignoreversion createallsubdirs recursesubdirs; Components: ru
+Source: "C:\Projects\ISS\DSP Modding pack\*"; DestDir: "{app}\BepInEx\plugins\DSP Modding pack\"; Flags: ignoreversion createallsubdirs recursesubdirs; Components: mods
 
 [Tasks]
 Name: startmenu; Description: "Create a &menu icon"; GroupDescription: "Additional icons:"; Components: core
