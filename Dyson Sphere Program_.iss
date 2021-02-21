@@ -26,7 +26,7 @@
 
 [Setup]
 AppName=Dyson Sphere Program
-AppVersion=0.6.16.5775
+AppVersion=0.6.16.5780
 DefaultDirName={autopf}\Dyson Sphere Program
 AppPublisher=Cheva
 AppPublisherURL=
@@ -41,13 +41,13 @@ DisableDirPage=no
 AllowRootDirectory=True
 EnableDirDoesntExistWarning=True
 LanguageDetectionMethod=locale
-VersionInfoVersion=0.6.16.5775
+VersionInfoVersion=0.6.16.5780
 AppCopyright=Youthcat Studio
 DefaultGroupName=Youthcat Studio
 VersionInfoCompany=Youthcat Studio
 VersionInfoCopyright=Youthcat Studio
 VersionInfoProductName=Dyson Sphere Program
-VersionInfoProductVersion=0.6.16.5775
+VersionInfoProductVersion=0.6.16.5780
 CompressionThreads=2
 
 [LangOptions]
@@ -88,7 +88,7 @@ end;
 [Types]
 Name: "full"; Description: "Полная установка Dyson Sphere Program c русификатором и модами"   
 Name: "custom"; Description: "Выборочная установка"; Flags: iscustom
-Name: "compact"; Description: "Оригинальная версия Dyson Sphere Program 0.6.16.5775"
+Name: "compact"; Description: "Оригинальная версия Dyson Sphere Program 0.6.16.5780"
 
 [Components]
 Name: "core"; Description: "Установка Dyson Sphere Program"; Types: full compact custom; Flags: fixed
