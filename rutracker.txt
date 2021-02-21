@@ -1,0 +1,115 @@
+[size=24]Dyson Sphere Program[/size]
+
+[img=right]https://i114.fastpic.ru/big/2021/0220/0b/abc62b82e30fa386c2f4b2e76ee7ff0b.jpg[/img]
+
+[b]Год выпуска[/b]: 2021
+[b]Жанр[/b]: Песочница
+[b]Разработчик[/b]: Youthcat Studio
+[b]Издатель[/b]: Steam|free
+[b]Платформа[/b]: Windows
+[b]Версия[/b]: 0.6.16.5775 + rus
+[b]Тип издания[/b]: Неофициальный
+[b]Релиз[/b]: Moй
+[b]Язык интерфейса[/b]: русский
+[b]Язык озвучки[/b]: английский
+[b]Таблэтка[/b]: Присутствует
+
+[b]Системные требования[/b]:
+[b]!!!ТОЛЬКО 64-бит[/b]
+
+Минимальные:
+Requires a 64-bit processor and operating system
+OS: Windows 7(64-Bit)
+Processor: i3-530 2.93GHZ 2 Core
+Memory: 4 GB RAM
+Graphics: Dedicated graphics card, GTX 750 Ti 2GB
+DirectX: Version 11
+Storage: 3 GB available space
+Sound Card: DirectX compatible
+Additional Notes: GPU must support Shader Model 5.0
+
+Желательные:
+Requires a 64-bit processor and operating system
+OS: Windows 10(64-Bit)
+Processor: i7-7700k 4.2GHz 4 Core
+Memory: 16 GB RAM
+Graphics: Dedicated graphics card, GTX 1660 6GB
+DirectX: Version 11
+Storage: 10 GB available space
+Sound Card: DirectX compatible
+Additional Notes: GPU must support Shader Model 5.0. Display Resolution 1080p +
+
+Проверял на тазиках от минимального до ультры, на минималках, i3 4gb R7 200 - 25 ФПС, вопрос - не к разработчику игры, вопрос - к Юнити. Тем не менее, работает в разы шустрее, чем Empyrion.
+
++ виртуалки с Win10, которые вытянут Unity 2020.2
+
+[b]Описание[/b]: Песочница для любителей космоса, Факторио, Сатисфактори итд.
+
+Вы - космический инженер, отвечающий за проект, запущенный космическим альянсом COSMO, перед которым стоит масштабная задача: построить Сферы Дайсона (мегаструктуру, которая будет вращаться вокруг звезды, используя всю ее силу и энергию) для производства энергии, необходимой человечеству.
+
+Всего несколько десятилетий назад сферы Дайсона считались гипотетическим, невозможным изобретением, но теперь оно в ваших руках ... Сможете ли вы превратить заводскую космическую заводь в масштабную промышленную производственную империю?
+
+Нейтронные звезды, белые карлики, красные гиганты, газообразные и каменистые планеты… Существует большая и разнообразная вселенная, которая ждет вас, чтобы собрать все ее ресурсы.
+
+Каждое прохождение будет уникальным: ваша вселенная будет автоматически генерироваться каждый раз, когда вы начинаете новую игру. Будут разные типы и распределение звезд, планет и ресурсов. Удастся ли вам развиваться и строить свои сферы, что бы вселенная ни кидала в вас?
+
+[b]Дополнительная информация[/b]:
+По мнению игроков - идеальная альфа, лучший старт-ап без кикстартера, обнимашки и поклоны. По мнению критиклоунов - Факторио 3д, не больше. Я - принадлежу первой группе. Зашло, на 30 часов сразу.
+Очень атмосферная, вылизана до секунд, сбалансированная, запускаемая на виртуалках, ... Один минус (или плюс?) - Юнити.
+[hr]
+Разработка.
+
+Программа Dyson Sphere была разработана командой из пяти человек студии Youthcat, расположенной в Чунцине, Китай.
+Студию основали Мао Мао, выпускник Чунцинского университета, и Чжоу Сюнь, который уже работал в игровой индустрии.
+Эти двое встречались ранее и имели общий интерес к научной фантастике. Они были вдохновлены космической 4х игрой Stellaris, которая включала создание сфер Дайсона как часть своего игрового процесса, и думали об игровой концепции построения сферы Дайсона по частям.
+
+Когда в начале 2019 года вышел фильм «Блуждающая земля», они решили, что настало время серьезно заняться разработкой этой концепции игры. Они потратили несколько месяцев на создание прототипа концепции, прежде чем приступить к полной разработке игры.
+Сюнь оставил свою работу, чтобы вместе с Мао Мао сформировать Youthcat Studio, и они наняли еще троих разработчиков для помощи. Проект финансировался за счет собственных сбережений Сюня, что давало им максимальное двухлетнее окно для подготовки игры к выпуску.
+
+Ближе к середине 2020 года, когда они приближались к концу этого двухлетнего периода, они встретились с Gamera Game, китайским издателем, поддерживающим разработку инди-игр. Гамера помогла Youthcat в планировании международного выпуска названия и привлечении актеров озвучивания, которые побывали в Блуждающей Земле, для выступления в игре.
+[b]Наличие/отсутствие рекламы[/b]: Реклама отсутствует.
+
+[spoiler="Особенности релиза"]
+Собрал в Inno Script Studio. Из портативки, которую взял у китайцев. Добавил переводчик на русский (требует интернет) и несколько полезных модов. Переводчик и моды - опциональны при установке.
+[/spoiler]
+
+[spoiler="Пояснения о переводчике"]
+Для начала стоит прояснить, что это авто переводчик. Он обращается к гуглу переводчику и получает ответ. В ру версии есть офлайн перевод. Существует мод "переводчик", но он еще в стадии разработки. Неоспоримый плюс данного переводчика в том, что он работает на любой версии игры. Установили один раз и забыли.
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2378994339]Universal game translator (Русификатор) By ZeroAI[/url]
+В этом репаке всё сделано, как работает - смотрите на скрины
+[/spoiler]
+
+[spoiler="Список модов"]
+[code]>>DSP Modding pack>dir /b /a-d
+BuildAnywhere.dll
+CopyInserters.dll
+DSPAdvancedMiner.dll
+DSPGameSpeed.dll
+FreeFoundationsFreeSoil.dll
+LDBTool.dll
+MoreOrLessDense.dll
+MoreOrLessStars.dll
+MoreReplication.dll
+MoreSmelters.dll
+MoreStorage.dll
+PowerNodeMultipliers.dll
+Quality-Mods-Program-Miner-Info.dll
+ZorbsAlternativeStart.dll
+[/code]
+Ссылка на моды: [url=https://dsp.thunderstore.io/]DSP Modding > All mods[/url]
+Моды лежат в папке ...\Dyson Sphere Program\BepInEx\plugins\DSP Modding pack
+Достаточно удалить .dll файл мода и перезапустить игру. Или добавить.
+[b]Заметил[/b], что с модами не стоит нажимать "Продолжить" после перезапуска, нужно загрузить конкретную сохранённую игру, иначе окажетесь в центре карты. Фикс не придумал.
+[/spoiler]
+
+[spoiler="Порядок установки"]
+Скачать, запустить инсталлятор.
+[/spoiler]
+
+[spoiler="Установщик"]
+[img]https://i114.fastpic.ru/big/2021/0220/4f/9db63e4f01b8cbcfffde5554b9d3d64f.png[/img]
+[/spoiler]
+
+[spoiler="Скриншоты"]
+[URL=https://fastpic.ru/view/114/2021/0220/_8b7909ceaaee799ae51ee30551649127.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/27/_8b7909ceaaee799ae51ee30551649127.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_814214fa322f270f42da4ff101c16554.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/54/_814214fa322f270f42da4ff101c16554.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_08e992bc62f5f4bca8765fd02f7f51ce.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/ce/_08e992bc62f5f4bca8765fd02f7f51ce.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_03e214c9a771c7eac5e297edab6e72b6.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/b6/_03e214c9a771c7eac5e297edab6e72b6.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_110b7617669c674c5c267091f66ae136.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/36/_110b7617669c674c5c267091f66ae136.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_dd5f6ed459b02319db82fe1cc3333e8b.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/8b/_dd5f6ed459b02319db82fe1cc3333e8b.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_97745b24c7a25e5fb873c0e7c6765020.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/20/_97745b24c7a25e5fb873c0e7c6765020.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_4430c6c4d271330b7bdb57e69ff16793.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/93/_4430c6c4d271330b7bdb57e69ff16793.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_f49db5b77b49c8120881b58f254c6b45.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/45/_f49db5b77b49c8120881b58f254c6b45.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_5a07d0db020214c959d89ded8b19127c.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/7c/_5a07d0db020214c959d89ded8b19127c.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_34064a11eac7d42a8de9c33622c5555c.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/5c/_34064a11eac7d42a8de9c33622c5555c.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_ea8f053200cd155170b8876f871cd37f.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/7f/_ea8f053200cd155170b8876f871cd37f.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_9e42ffe4e5eb215462d364d8fde54f2f.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/2f/_9e42ffe4e5eb215462d364d8fde54f2f.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_aff526c93c22e535efc4092f6e8e88fd.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/fd/_aff526c93c22e535efc4092f6e8e88fd.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_5149bb311932577273029318cac5f711.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/11/_5149bb311932577273029318cac5f711.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_f5431400bbf9decd19ce0c64f8a5d3fd.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/fd/_f5431400bbf9decd19ce0c64f8a5d3fd.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_32c2c6f9580e85f9b9d135d5dfcacb9f.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/9f/_32c2c6f9580e85f9b9d135d5dfcacb9f.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_2148f7735d722addbcccfcf3df6869dc.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/dc/_2148f7735d722addbcccfcf3df6869dc.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_3fc1f8da5826942d068c302f490bb3af.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/af/_3fc1f8da5826942d068c302f490bb3af.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_f5cd9e62c7eea366121b1f40b79a7cda.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/da/_f5cd9e62c7eea366121b1f40b79a7cda.jpeg[/IMG][/URL]
+[/spoiler]
