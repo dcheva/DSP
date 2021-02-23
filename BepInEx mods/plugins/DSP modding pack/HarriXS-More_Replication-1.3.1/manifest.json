@@ -1,0 +1,9 @@
+{
+    "name": "More_Replication",
+    "version_number": "1.3.1",
+    "website_url": "https://github.com/HarriXS/DSP-Mods/releases",
+    "description": "Allows you to craft more than 10 of an item at a time. Factorio-style ctrl and shift clicking. Alt-clicking the plus will add as many as you can craft",
+    "dependencies": [
+        "xiaoye97-BepInEx-5.4.5"
+    ]
+}

@@ -26,7 +26,7 @@
 
 [Setup]
 AppName=Dyson Sphere Program
-AppVersion=0.6.16.5780
+AppVersion=0.16.5780
 DefaultDirName={autopf}\Dyson Sphere Program
 AppPublisher=Cheva
 AppPublisherURL=
@@ -36,7 +36,6 @@ OutputDir=Output
 WizardSmallImageBackColor={#GraphicalInstallerUI}
 InternalCompressLevel=fast
 WizardStyle=modern
-LicenseFile=C:\Projects\ISS\Dyson Sphere Program\CCCL.txt
 DisableDirPage=no
 AllowRootDirectory=True
 EnableDirDoesntExistWarning=True
@@ -49,6 +48,15 @@ VersionInfoCopyright=Youthcat Studio
 VersionInfoProductName=Dyson Sphere Program
 VersionInfoProductVersion=0.6.16.5780
 CompressionThreads=2
+DisableStartupPrompt=False
+PrivilegesRequired=none
+UsePreviousPrivileges=False
+LicenseFile=C:\Projects\ISS\Dyson Sphere Program\license.txt
+SetupIconFile=C:\Projects\ISS\Dyson Sphere Program\Icon.ico
+ShowLanguageDialog=auto
+Compression=lzma2/fast
+CreateUninstallRegKey=yes
+Uninstallable=yes
 
 [LangOptions]
 LanguageID=$0419
@@ -97,17 +105,22 @@ Name: "mods"; Description: "Моды (DSP Modding)"; Types: full
 
 [Files]
 Source: "C:\Projects\ISS\Dyson Sphere Program\*"; DestDir: "{app}"; Flags: ignoreversion createallsubdirs recursesubdirs; Components: core
-Source: "C:\Projects\ISS\BepInEx\*"; DestDir: "{app}\BepInEx"; Flags: ignoreversion createallsubdirs recursesubdirs; Components: ru
-Source: "C:\Projects\ISS\DSP Modding pack\*"; DestDir: "{app}\BepInEx\plugins\DSP Modding pack\"; Flags: ignoreversion createallsubdirs recursesubdirs; Components: mods
+Source: "C:\Projects\ISS\BepInEx translator\*"; DestDir: "{app}\BepInEx"; Flags: ignoreversion createallsubdirs recursesubdirs; Components: ru
+Source: "C:\Projects\ISS\BepInEx mods\*"; DestDir: "{app}\BepInEx"; Flags: ignoreversion createallsubdirs recursesubdirs; Components: mods
+Source: "C:\Windows\Fonts\corbel.ttf"; DestDir: "{fonts}"; FontInstall: "Corbel"; Flags: onlyifdoesntexist uninsneveruninstall
+Source: "C:\Windows\Fonts\corbelb.ttf"; DestDir: "{fonts}"; FontInstall: "Corbel Bold"; Flags: onlyifdoesntexist uninsneveruninstall
+Source: "C:\Windows\Fonts\corbeli.ttf"; DestDir: "{fonts}"; FontInstall: "Corbel Italic"; Flags: onlyifdoesntexist uninsneveruninstall
+Source: "C:\Windows\Fonts\corbell.ttf"; DestDir: "{fonts}"; FontInstall: "Corbel Light"; Flags: onlyifdoesntexist uninsneveruninstall
+Source: "C:\Windows\Fonts\corbelli.ttf"; DestDir: "{fonts}"; FontInstall: "Corbel Light Italic"; Flags: onlyifdoesntexist uninsneveruninstall
+Source: "C:\Windows\Fonts\corbelz.ttf"; DestDir: "{fonts}"; FontInstall: "Corbel Bold Italic"; Flags: onlyifdoesntexist uninsneveruninstall
 
 [Tasks]
 Name: startmenu; Description: "Create a &menu icon"; GroupDescription: "Additional icons:"; Components: core
 Name: desktopicon; Description: "Create a &desktop icon"; GroupDescription: "Additional icons:"; Components: core
 
 [Icons]
-Name: "{group}\Dyson Sphere Program"; Filename: "{app}\DSPGAME.exe"; Components: core; Tasks: startmenu   
+Name: "{group}\Dyson Sphere Program"; Filename: "{app}\DSPGAME.exe"; Components: core; Tasks: startmenu
+Name: "{group}\Удалить Dyson Sphere Program"; Filename: "{uninstallexe}"; Components: core; Tasks: startmenu
 Name: "{commondesktop}\Dyson Sphere Program"; Filename: "{app}\DSPGAME.exe"; Components: core; Tasks: desktopicon
-Name: "{group}\Удалить Dyson Sphere Program"; Filename: "{uninstallexe}"
 
-// End of file (EOF)
-
+// EOF

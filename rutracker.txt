@@ -1,4 +1,4 @@
-[size=24]Dyson Sphere Program[/size]
+[size=24]Dyson Sphere Program [color=darkgreen][b]0.6.16.5780 + rus[/b][/color][/size]
 
 [img=right]https://i114.fastpic.ru/big/2021/0220/0b/abc62b82e30fa386c2f4b2e76ee7ff0b.jpg[/img]
 
@@ -7,7 +7,7 @@
 [b]Разработчик[/b]: Youthcat Studio
 [b]Издатель[/b]: Steam|free
 [b]Платформа[/b]: Windows
-[b]Версия[/b]: 0.6.16.5775 + rus
+[color=darkgreen][b]Версия[/b]: 0.6.16.5780 + rus[/color]
 [b]Тип издания[/b]: Неофициальный
 [b]Релиз[/b]: Moй
 [b]Язык интерфейса[/b]: русский
@@ -81,10 +81,13 @@ Additional Notes: GPU must support Shader Model 5.0. Display Resolution 1080p +
 
 [spoiler="Список модов"]
 [code]>>DSP Modding pack>dir /b /a-d
+AdvancedBuildDestruct.dll
+AdvancedBuildDestruct.md
 BuildAnywhere.dll
 CopyInserters.dll
-DSPAdvancedMiner.dll
+custombundle
 DSPGameSpeed.dll
+DSP_CustomBuildings.dll
 FreeFoundationsFreeSoil.dll
 LDBTool.dll
 MoreOrLessDense.dll
@@ -104,10 +107,11 @@ ZorbsAlternativeStart.dll
 
 [spoiler="Порядок установки"]
 Скачать, запустить инсталлятор.
+[b]Запуск с ярлыков - с правами администратора.[/b]
 [/spoiler]
 
 [spoiler="Установщик"]
-[img]https://i114.fastpic.ru/big/2021/0220/4f/9db63e4f01b8cbcfffde5554b9d3d64f.png[/img]
+[img]https://i114.fastpic.ru/big/2021/0221/9d/fee70d2f9cbd1e419dfeffb573706f9d.jpg[/img]
 [/spoiler]
 
 [spoiler="Скриншоты"]
