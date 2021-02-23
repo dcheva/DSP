@@ -1,0 +1,9 @@
+{
+  "name": "BuildAnywhere",
+  "version_number": "1.4.2",
+  "website_url": "",
+  "description": "Allows you to ignore grid snapping",
+  "dependencies": [
+    "xiaoye97-BepInEx-5.4.5"
+  ]
+}

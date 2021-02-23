@@ -1,0 +1,10 @@
+{
+    "name": "More_Smelters",
+    "version_number": "0.3.1",
+    "website_url": "https://github.com/HarriXS/DSP-Mods",
+    "description": "Adds two new Smelters (MK II and MK III)",
+    "dependencies": [
+        "xiaoye97-BepInEx-5.4.5",
+		"xiaoye97-LDBTool-1.8.0"
+    ]
+}

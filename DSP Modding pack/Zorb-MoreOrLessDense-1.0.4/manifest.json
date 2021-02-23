@@ -1,0 +1,7 @@
+{
+    "name": "MoreOrLessDense",
+    "version_number": "1.0.4",
+    "website_url": "https://github.com/ZorbZorbZorb/MoreOrLessDense",
+    "description": "Adds a slider to let you control star density",
+    "dependencies": []
+}

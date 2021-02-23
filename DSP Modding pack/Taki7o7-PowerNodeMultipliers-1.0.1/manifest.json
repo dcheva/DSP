@@ -1,0 +1,9 @@
+{
+  "name": "PowerNodeMultipliers",
+  "version_number": "1.0.1",
+  "website_url": "",
+  "description": "Set Multipliers for Connection-Distance & Cover-Radius of Tesla Towers, Wireless Power Station & Satellite Substations",
+  "dependencies": [
+    "xiaoye97-BepInEx-5.4.5"
+  ]
+}
