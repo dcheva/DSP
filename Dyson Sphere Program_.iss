@@ -34,7 +34,7 @@ OutputBaseFilename=Dyson Sphere Program
 OutputDir=Output
 ; Directive "WizardSmallImageBackColor" was modified for purposes of Graphical Installer.
 WizardSmallImageBackColor={#GraphicalInstallerUI}
-InternalCompressLevel=max
+InternalCompressLevel=fast
 WizardStyle=modern
 LicenseFile=C:\Projects\ISS\Dyson Sphere Program\CCCL.txt
 DisableDirPage=no
@@ -55,7 +55,7 @@ LanguageID=$0419
 DialogFontSize=10
 WelcomeFontSize=14
 TitleFontSize=30
-CopyrightFontSize=10
+CopyrightFontSize=82
 
 [Languages]
 Name: "Russian"; MessagesFile: "compiler:Languages\Russian.isl"
