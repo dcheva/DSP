@@ -32,7 +32,7 @@
 #define public TopPicture    "DSPGame-top.jpg"    ; 690x416 px
 #define public InnerPicture  "DSPGame-inner.jpg"  ; 413x237 px
 #define public BottomPicture "DSPGame-bottom.jpg" ; 690x83 px
-#define public ButtonPicture "Basic.png" ; 80x136 px
+#define public ButtonPicture "Button-rad2.png" ; 80x136 px
  
 ; File with core functions and procedures
 #include "compiler:Graphical Installer\GraphicalInstaller_functions.iss"

@@ -110,3 +110,4 @@ Name: "{commondesktop}\Dyson Sphere Program"; Filename: "{app}\DSPGAME.exe"; Com
 Name: "{group}\Удалить Dyson Sphere Program"; Filename: "{uninstallexe}"
 
 // End of file (EOF)
+
