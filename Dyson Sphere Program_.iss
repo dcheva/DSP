@@ -105,9 +105,9 @@ Name: startmenu; Description: "Create a &menu icon"; GroupDescription: "Addition
 Name: desktopicon; Description: "Create a &desktop icon"; GroupDescription: "Additional icons:"; Components: core
 
 [Icons]
-Name: "{group}\Dyson Sphere Program"; Filename: "{app}\DSPGAME.exe"; Components: core; Tasks: startmenu   
+Name: "{group}\Dyson Sphere Program"; Filename: "{app}\DSPGAME.exe"; Components: core; Tasks: startmenu
+Name: "{group}\Удалить Dyson Sphere Program"; Filename: "{uninstallexe}"; Components: core; Tasks: startmenu
 Name: "{commondesktop}\Dyson Sphere Program"; Filename: "{app}\DSPGAME.exe"; Components: core; Tasks: desktopicon
-Name: "{group}\Удалить Dyson Sphere Program"; Filename: "{uninstallexe}"
 
 // End of file (EOF)
 
