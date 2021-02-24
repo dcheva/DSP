@@ -1,4 +1,18 @@
+; Sources
 Dyson Sphere Program
 ./Dyson Sphere Program/*
+; Compiled
 Output
 ./Output/*
+; Fonts
+Fonts
+./Fonts/*
+; Redistributables
+Redist
+./Redist/*
+; Junks
+*.bak
+*.tmp
+tmp
+*/tmp
+*/tmp/*

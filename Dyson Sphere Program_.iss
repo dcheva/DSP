@@ -26,7 +26,7 @@
 
 [Setup]
 AppName=Dyson Sphere Program
-AppVersion=0.16.5780
+AppVersion=0.16.5780/2021.02.24
 DefaultDirName={autopf}\Dyson Sphere Program
 AppPublisher=Cheva
 AppPublisherURL=
@@ -107,12 +107,7 @@ Name: "mods"; Description: "Моды (DSP Modding)"; Types: full
 Source: "C:\Projects\ISS\Dyson Sphere Program\*"; DestDir: "{app}"; Flags: ignoreversion createallsubdirs recursesubdirs; Components: core
 Source: "C:\Projects\ISS\BepInEx translator\*"; DestDir: "{app}\BepInEx"; Flags: ignoreversion createallsubdirs recursesubdirs; Components: ru
 Source: "C:\Projects\ISS\BepInEx mods\*"; DestDir: "{app}\BepInEx"; Flags: ignoreversion createallsubdirs recursesubdirs; Components: mods
-Source: "C:\Windows\Fonts\corbel.ttf"; DestDir: "{fonts}"; FontInstall: "Corbel"; Flags: onlyifdoesntexist uninsneveruninstall
-Source: "C:\Windows\Fonts\corbelb.ttf"; DestDir: "{fonts}"; FontInstall: "Corbel Bold"; Flags: onlyifdoesntexist uninsneveruninstall
-Source: "C:\Windows\Fonts\corbeli.ttf"; DestDir: "{fonts}"; FontInstall: "Corbel Italic"; Flags: onlyifdoesntexist uninsneveruninstall
-Source: "C:\Windows\Fonts\corbell.ttf"; DestDir: "{fonts}"; FontInstall: "Corbel Light"; Flags: onlyifdoesntexist uninsneveruninstall
-Source: "C:\Windows\Fonts\corbelli.ttf"; DestDir: "{fonts}"; FontInstall: "Corbel Light Italic"; Flags: onlyifdoesntexist uninsneveruninstall
-Source: "C:\Windows\Fonts\corbelz.ttf"; DestDir: "{fonts}"; FontInstall: "Corbel Bold Italic"; Flags: onlyifdoesntexist uninsneveruninstall
+Source: "C:\Projects\ISS\Fonts\Roboto Condensed Bold Italic.ttf"; DestDir: "{fonts}"; FontInstall: "Roboto Condensed Bold Italic"; Flags: onlyifdoesntexist uninsneveruninstall
 
 [Tasks]
 Name: startmenu; Description: "Create a &menu icon"; GroupDescription: "Additional icons:"; Components: core
@@ -123,4 +118,8 @@ Name: "{group}\Dyson Sphere Program"; Filename: "{app}\DSPGAME.exe"; Components:
 Name: "{group}\Удалить Dyson Sphere Program"; Filename: "{uninstallexe}"; Components: core; Tasks: startmenu
 Name: "{commondesktop}\Dyson Sphere Program"; Filename: "{app}\DSPGAME.exe"; Components: core; Tasks: desktopicon
 
-// EOF
+[UninstallDelete]
+Type: files; Name: "{app}\*"
+Type: dirifempty; Name: "{app}\..\Dyson Sphere Program"
+
+// EOF 
