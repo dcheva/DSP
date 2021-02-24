@@ -16,3 +16,8 @@ Redist
 tmp
 */tmp
 */tmp/*
+; Archives
+*.7z
+*.zip
+*/*.7z
+*/*.zip
