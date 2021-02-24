@@ -1,0 +1,7 @@
+{
+    "name": "More_or_Less_Stars",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/ZorbZorbZorb/MoreOrLessStars",
+    "description": "Allows you to generate a galaxy with more or less stars than the game allows by default.",
+    "dependencies": []
+}

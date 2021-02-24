@@ -1,0 +1,9 @@
+{
+  "name": "RemoveEarlyAccessAndSteamName",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Removes Early Access Tag and Steam Username in top right corner. Please be kind enough to disable this mod when submitting a Bug-Report!",
+  "dependencies": [
+    "xiaoye97-BepInEx-5.4.5"
+  ]
+}
