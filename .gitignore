@@ -5,8 +5,8 @@ Dyson Sphere Program
 Output
 ./Output/*
 ; Fonts
-Fonts
-./Fonts/*
+;Fonts
+;./Fonts/*
 ; Redistributables
 Redist
 ./Redist/*
