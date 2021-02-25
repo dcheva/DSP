@@ -8,8 +8,8 @@ Output
 ;Fonts
 ;./Fonts/*
 ; Redistributables
-Redist
-./Redist/*
+;Redist
+;./Redist/*
 ; Junks
 *.bak
 *.tmp
