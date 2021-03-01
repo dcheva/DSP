@@ -21,3 +21,8 @@ tmp
 *.zip
 */*.7z
 */*.zip
+
+*/git
+*/git/*
+*/.git
+*/.git/*
