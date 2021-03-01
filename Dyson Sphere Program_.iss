@@ -26,7 +26,7 @@
 
 [Setup]
 AppName=Dyson Sphere Program
-AppVersion=0.16.5780/2021.02.24
+AppVersion=0.16.5780/21.3.1
 DefaultDirName={autopf}\Dyson Sphere Program
 AppPublisher=Cheva
 AppPublisherURL=
