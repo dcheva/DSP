@@ -19,7 +19,19 @@ Then drag CopyInserters.dll into steamapps/common/Dyson Sphere Program/BepInEx/p
 ## Feedback / Bug Reports
 Feel free to contact me on Discord (fezeral#3104) with any feedback, bugs or suggestions
 
+## Contributors - Cheers! :beer:
+**brokenmass, DavisCook777, colin-daniels, TrAceX99**
+
 ## Changelog
+### v1.6.0
+- Performance improvement when using AdvancedBuildDestruct mod with a large number of buildings (25FPS -> 60FPS in testing) (brokenmass)
+- Compatibility fix for AdvancedBuildDestruct mod incorrectly tagging inserters as colliding (brokenmass)
+- When cancelling building but not exiting Build Mode, inserters to copy are now cleared (thisisbrad)
+### v1.5.0
+- Added a visual style to inserters that will not be built as the result of having no connections (brokenmass)
+- Improved buildPreview positioning (brokenmass)
+- Fixed remaining building rotation issues (TrAceX99)
+- Disabled inserter pasting for stackable above ground buildings (TrAceX99)
 ### v1.4.0
 - Fixed error when pasting a building connected to belts that are still under construction (brokenmass)
 ### v1.3.0

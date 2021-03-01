@@ -1,6 +1,11 @@
 ## Dyson Sphere Program: Game Speed Mod   
 This mod lets you set the speed of the game.
 
+Added Key binds
+Left Alt + 1 - Default 1x speed
+Left Alt + 2 - 2x speed
+Left Alt + 3 - 3x speed
+Fixed speed display text on top right overwriting steam profile name.
 
 ### Features
 - Added User interface to set the speed of the game (Bottom Right corner).
