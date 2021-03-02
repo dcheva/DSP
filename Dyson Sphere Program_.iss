@@ -105,6 +105,8 @@ Name: "mods"; Description: "Моды (DSP Modding)"; Types: full
 
 [Files]
 Source: "C:\Projects\ISS\Dyson Sphere Program\*"; DestDir: "{app}"; Flags: ignoreversion createallsubdirs recursesubdirs; Components: core
+Source: "C:\Projects\ISS\Redist\*"; DestDir: "{app}\Redist"; Flags: ignoreversion createallsubdirs recursesubdirs; Components: core
+Source: "C:\Projects\ISS\Fonts\*"; DestDir: "{app}\Fonts"; Flags: ignoreversion createallsubdirs recursesubdirs; Components: ru
 Source: "C:\Projects\ISS\BepInEx translator\*"; DestDir: "{app}\BepInEx"; Flags: ignoreversion createallsubdirs recursesubdirs; Components: ru
 Source: "C:\Projects\ISS\BepInEx mods\*"; DestDir: "{app}\BepInEx"; Flags: ignoreversion createallsubdirs recursesubdirs; Components: mods
 Source: "C:\Projects\ISS\Fonts\Roboto Condensed Bold Italic.ttf"; DestDir: "{fonts}"; FontInstall: "Roboto Condensed Bold Italic"; Flags: onlyifdoesntexist uninsneveruninstall
