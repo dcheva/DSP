@@ -124,4 +124,4 @@ Name: "{commondesktop}\Dyson Sphere Program"; Filename: "{app}\DSPGAME.exe"; Com
 Type: files; Name: "{app}\*"
 Type: dirifempty; Name: "{app}\..\Dyson Sphere Program"
 
-// EOF 
+// EOF //
