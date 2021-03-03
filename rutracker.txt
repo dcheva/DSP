@@ -1,16 +1,16 @@
-[size=24]Dyson Sphere Program [color=darkgreen][b]0.6.16.5780 + rus[/b][/color][/size]
-
-[img=right]https://i114.fastpic.ru/big/2021/0220/0b/abc62b82e30fa386c2f4b2e76ee7ff0b.jpg[/img]
+[size=24]Dyson Sphere Program [color=darkgreen][b]0.6.16.5780 + rus[/b][/color][/size] 21.3.1 update
+[color=darkgreen][b]перекачивайте со 2-го Марта. протупил торренты обновить.[/b][/color]
+[img=right]https://i114.fastpic.ru/big/2021/0301/8d/7f28c1b0843e03da0924423c1fae6c8d.png[/img]
 
 [b]Год выпуска[/b]: 2021
 [b]Жанр[/b]: Песочница
 [b]Разработчик[/b]: Youthcat Studio
-[b]Издатель[/b]: Steam|free
+[b]Издатель[/b]: Youthcat Studio
 [b]Платформа[/b]: Windows
-[color=darkgreen][b]Версия[/b]: 0.6.16.5780 + rus[/color]
+[color=darkgreen][b]Версия[/b]: 0.6.16.5780[/color]
 [b]Тип издания[/b]: Неофициальный
-[b]Релиз[/b]: Moй
-[b]Язык интерфейса[/b]: русский
+[b]Релиз[/b]: угу
+[b]Язык интерфейса[/b]: русский (требует интернет после 10 часов игры)
 [b]Язык озвучки[/b]: английский
 [b]Таблэтка[/b]: Присутствует
 
@@ -74,35 +74,42 @@ Additional Notes: GPU must support Shader Model 5.0. Display Resolution 1080p +
 [/spoiler]
 
 [spoiler="Пояснения о переводчике"]
-Для начала стоит прояснить, что это авто переводчик. Он обращается к гуглу переводчику и получает ответ. В ру версии есть офлайн перевод. Существует мод "переводчик", но он еще в стадии разработки. Неоспоримый плюс данного переводчика в том, что он работает на любой версии игры. Установили один раз и забыли.
+Полностью переписываю перевод.
+Переписал уже процентов 20.
+Собираю команду доброжелателей, гитхаб, амазон, просто мылом.
+Начальный текст - Промт и Яндекс. Гугл - да, после 10 часов игры, остальное вроде втянуто и работает оффлайн. 2 дня без интернета сидел, видел наживо.
+Десять вычитаных текстов по сюжетным завязкам. Нормально, на пару минут. Старт и менюшки - вычитал. Остальное - может выглядеть криво.
+Сейчас придумываю правила, хочу, чтобы в релизе игры был ХОРОШИЙ русский с озвучкой, а также - другие славянские и дружеские языки.
+
+(ZeroAI): Для начала стоит прояснить, что это авто переводчик. Он обращается к гуглу переводчику и получает ответ. В ру версии есть офлайн перевод. Существует мод "переводчик", но он еще в стадии разработки. Неоспоримый плюс данного переводчика в том, что он работает на любой версии игры. Установили один раз и забыли.
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2378994339]Universal game translator (Русификатор) By ZeroAI[/url]
 В этом репаке всё сделано, как работает - смотрите на скрины
 [/spoiler]
 
 [spoiler="Список модов"]
-[code]>>DSP Modding pack>dir /b /a-d
-AdvancedBuildDestruct.dll
-AdvancedBuildDestruct.md
-BuildAnywhere.dll
-CopyInserters.dll
-custombundle
-DSPGameSpeed.dll
-DSP_CustomBuildings.dll
-FreeFoundationsFreeSoil.dll
-LDBTool.dll
-MoreOrLessDense.dll
-MoreOrLessStars.dll
-MoreReplication.dll
-MoreSmelters.dll
-MoreStorage.dll
-PowerNodeMultipliers.dll
-Quality-Mods-Program-Miner-Info.dll
-ZorbsAlternativeStart.dll
-[/code]
-Ссылка на моды: [url=https://dsp.thunderstore.io/]DSP Modding > All mods[/url]
+
+[Alejandro1-BuildAnywhere-1.4.2]
+[brotchie-MinerInfo-1.0.1]
+[DspGameSpeedMod v0.7.1]
+[HarriXS-More_Replication-1.3.1]
+[HarriXS-More_Smelters-0.3.1]
+[HarriXS-More_Storage-0.2.1]
+[Taki7o7-PowerNodeMultipliers-1.0.5]
+[Taki7o7-RemoveEarlyAccessAndSteamName-1.0.0]
+[thisisbrad-CopyInserters-1.6.0]
+[xiaoye97-AdvancedBuildDestruct-1.0.7]
+[xiaoye97-LDBTool-1.8.0]
+[Zorb-MoreOrLessDense-1.0.4]
+[Zorb-More_or_Less_Stars-1.0.1]
+[Zorb-More_Planet_Types-1.2.0]
+[Zorb-Zorbs_Alternative_Start-1.3.3]
+
 Моды лежат в папке ...\Dyson Sphere Program\BepInEx\plugins\DSP Modding pack
 Достаточно удалить .dll файл мода и перезапустить игру. Или добавить.
-[b]Заметил[/b], что с модами не стоит нажимать "Продолжить" после перезапуска, нужно загрузить конкретную сохранённую игру, иначе окажетесь в центре карты. Фикс не придумал.
+Ссылка на моды: [url=https://dsp.thunderstore.io/]DSP Modding > All mods[/url]
+
+В каждом моде есть файлик Readme.MD от автора. Почти все не на китайском.
+
 [/spoiler]
 
 [spoiler="Порядок установки"]
@@ -111,9 +118,12 @@ ZorbsAlternativeStart.dll
 [/spoiler]
 
 [spoiler="Установщик"]
-[img]https://i114.fastpic.ru/big/2021/0221/9d/fee70d2f9cbd1e419dfeffb573706f9d.jpg[/img]
+[img]https://i114.fastpic.ru/big/2021/0302/69/1fa41b22c45abb283236b793d5a70469.png[/img]
 [/spoiler]
 
 [spoiler="Скриншоты"]
+/// новые
+[URL=https://fastpic.ru/view/114/2021/0302/_00af6e55c741540a187c7f4dc761da38.png.html][IMG]https://i114.fastpic.ru/thumb/2021/0302/38/_00af6e55c741540a187c7f4dc761da38.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0302/_b1e44d1839e7a170f3fc091523a4a776.png.html][IMG]https://i114.fastpic.ru/thumb/2021/0302/76/_b1e44d1839e7a170f3fc091523a4a776.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0302/_678328f447c02ff1bf5d560e5f8b289e.png.html][IMG]https://i114.fastpic.ru/thumb/2021/0302/9e/_678328f447c02ff1bf5d560e5f8b289e.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0302/_5d960e98e372f4b8e04045553a1ac93c.png.html][IMG]https://i114.fastpic.ru/thumb/2021/0302/3c/_5d960e98e372f4b8e04045553a1ac93c.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0302/_c8a013da0a9937b4213eb3693bc5960e.png.html][IMG]https://i114.fastpic.ru/thumb/2021/0302/0e/_c8a013da0a9937b4213eb3693bc5960e.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0302/_f540c0908ba05a33534a02e9a909f18e.png.html][IMG]https://i114.fastpic.ru/thumb/2021/0302/8e/_f540c0908ba05a33534a02e9a909f18e.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0302/_13278f02fdeb67f19f97a670ec9610aa.png.html][IMG]https://i114.fastpic.ru/thumb/2021/0302/aa/_13278f02fdeb67f19f97a670ec9610aa.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0302/_bbd4c1117aa431dc6490401674563e8d.png.html][IMG]https://i114.fastpic.ru/thumb/2021/0302/8d/_bbd4c1117aa431dc6490401674563e8d.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0302/_481bddd8fa33269589df4595ec20f5b7.png.html][IMG]https://i114.fastpic.ru/thumb/2021/0302/b7/_481bddd8fa33269589df4595ec20f5b7.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0302/_d8f02c3a369ab1f1c81e04800fa351be.png.html][IMG]https://i114.fastpic.ru/thumb/2021/0302/be/_d8f02c3a369ab1f1c81e04800fa351be.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0302/_30c4e315206b5d0840b5c01f2c094d3b.png.html][IMG]https://i114.fastpic.ru/thumb/2021/0302/3b/_30c4e315206b5d0840b5c01f2c094d3b.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0302/_1c172292091c2d27f8bede1a6deaa56b.png.html][IMG]https://i114.fastpic.ru/thumb/2021/0302/6b/_1c172292091c2d27f8bede1a6deaa56b.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0302/_f455a0c2b66025415b576598e1a2f0d9.png.html][IMG]https://i114.fastpic.ru/thumb/2021/0302/d9/_f455a0c2b66025415b576598e1a2f0d9.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0302/_36dd73215591d0966e186ebb48e7e324.png.html][IMG]https://i114.fastpic.ru/thumb/2021/0302/24/_36dd73215591d0966e186ebb48e7e324.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0302/_f818e20fd306b5b902494d62fd6a98af.png.html][IMG]https://i114.fastpic.ru/thumb/2021/0302/af/_f818e20fd306b5b902494d62fd6a98af.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0302/_a42dabc80d16d94a6b0d9351a502b69e.png.html][IMG]https://i114.fastpic.ru/thumb/2021/0302/9e/_a42dabc80d16d94a6b0d9351a502b69e.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0302/_03479e9c06d53db36b95d838cc3ce491.png.html][IMG]https://i114.fastpic.ru/thumb/2021/0302/91/_03479e9c06d53db36b95d838cc3ce491.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0302/_577208bfb7a1e8b965cf3c26be41fa9c.png.html][IMG]https://i114.fastpic.ru/thumb/2021/0302/9c/_577208bfb7a1e8b965cf3c26be41fa9c.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0302/_90bb8df08519c2db8b85307b54a87c67.png.html][IMG]https://i114.fastpic.ru/thumb/2021/0302/67/_90bb8df08519c2db8b85307b54a87c67.jpeg[/IMG][/URL]
+/// старые
 [URL=https://fastpic.ru/view/114/2021/0220/_8b7909ceaaee799ae51ee30551649127.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/27/_8b7909ceaaee799ae51ee30551649127.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_814214fa322f270f42da4ff101c16554.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/54/_814214fa322f270f42da4ff101c16554.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_08e992bc62f5f4bca8765fd02f7f51ce.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/ce/_08e992bc62f5f4bca8765fd02f7f51ce.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_03e214c9a771c7eac5e297edab6e72b6.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/b6/_03e214c9a771c7eac5e297edab6e72b6.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_110b7617669c674c5c267091f66ae136.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/36/_110b7617669c674c5c267091f66ae136.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_dd5f6ed459b02319db82fe1cc3333e8b.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/8b/_dd5f6ed459b02319db82fe1cc3333e8b.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_97745b24c7a25e5fb873c0e7c6765020.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/20/_97745b24c7a25e5fb873c0e7c6765020.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_4430c6c4d271330b7bdb57e69ff16793.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/93/_4430c6c4d271330b7bdb57e69ff16793.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_f49db5b77b49c8120881b58f254c6b45.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/45/_f49db5b77b49c8120881b58f254c6b45.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_5a07d0db020214c959d89ded8b19127c.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/7c/_5a07d0db020214c959d89ded8b19127c.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_34064a11eac7d42a8de9c33622c5555c.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/5c/_34064a11eac7d42a8de9c33622c5555c.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_ea8f053200cd155170b8876f871cd37f.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/7f/_ea8f053200cd155170b8876f871cd37f.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_9e42ffe4e5eb215462d364d8fde54f2f.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/2f/_9e42ffe4e5eb215462d364d8fde54f2f.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_aff526c93c22e535efc4092f6e8e88fd.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/fd/_aff526c93c22e535efc4092f6e8e88fd.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_5149bb311932577273029318cac5f711.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/11/_5149bb311932577273029318cac5f711.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_f5431400bbf9decd19ce0c64f8a5d3fd.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/fd/_f5431400bbf9decd19ce0c64f8a5d3fd.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_32c2c6f9580e85f9b9d135d5dfcacb9f.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/9f/_32c2c6f9580e85f9b9d135d5dfcacb9f.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_2148f7735d722addbcccfcf3df6869dc.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/dc/_2148f7735d722addbcccfcf3df6869dc.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_3fc1f8da5826942d068c302f490bb3af.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/af/_3fc1f8da5826942d068c302f490bb3af.jpeg[/IMG][/URL] [URL=https://fastpic.ru/view/114/2021/0220/_f5cd9e62c7eea366121b1f40b79a7cda.jpg.html][IMG]https://i114.fastpic.ru/thumb/2021/0220/da/_f5cd9e62c7eea366121b1f40b79a7cda.jpeg[/IMG][/URL]
 [/spoiler]
