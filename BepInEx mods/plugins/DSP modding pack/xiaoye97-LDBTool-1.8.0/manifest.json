@@ -1,9 +1,0 @@
-{
-    "name": "LDBTool",
-    "version_number": "1.8.0",
-    "website_url": "https://github.com/xiaoye97/xiaoye97-BepInex-Plugins/tree/master/Dyson%20Sphere%20Program/LDBTool",
-    "description": "A pre mod for add and edit Proto data, show Proto data, config mod Proto id, custom localization, custom build bar. 一个用于添加修改查看Proto数据、自定义Mod Proto ID、自定义翻译、自定义建造快捷栏的前置Mod。",
-    "dependencies": [
-        "xiaoye97-BepInEx-5.4.5"
-    ]
-}

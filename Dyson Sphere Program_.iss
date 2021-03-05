@@ -109,7 +109,8 @@ Source: "C:\Projects\ISS\Redist\*"; DestDir: "{app}\Redist"; Flags: ignoreversio
 Source: "C:\Projects\ISS\Fonts\*"; DestDir: "{app}\Fonts"; Flags: ignoreversion createallsubdirs recursesubdirs; Components: ru
 Source: "C:\Projects\ISS\BepInEx translator\*"; DestDir: "{app}\BepInEx"; Flags: ignoreversion createallsubdirs recursesubdirs; Components: ru
 Source: "C:\Projects\ISS\BepInEx mods\*"; DestDir: "{app}\BepInEx"; Flags: ignoreversion createallsubdirs recursesubdirs; Components: mods
-Source: "C:\Projects\ISS\Fonts\Roboto Condensed Bold Italic.ttf"; DestDir: "{fonts}"; FontInstall: "Roboto Condensed Bold Italic"; Flags: onlyifdoesntexist uninsneveruninstall
+;Source: "C:\Projects\ISS\Fonts\Roboto Condensed Bold Italic.ttf"; DestDir: "{fonts}"; FontInstall: "Roboto Condensed Bold Italic"; Flags: onlyifdoesntexist uninsneveruninstall
+Source: "C:\Projects\ISS\Fonts\Cuprum Regular.ttf"; DestDir: "{fonts}"; FontInstall: "Cuprum"; Flags: onlyifdoesntexist uninsneveruninstall
 
 [Tasks]
 Name: startmenu; Description: "Create a &menu icon"; GroupDescription: "Additional icons:"; Components: core

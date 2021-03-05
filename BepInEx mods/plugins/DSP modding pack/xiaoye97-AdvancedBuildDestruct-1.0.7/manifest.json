@@ -1,9 +1,0 @@
-{
-    "name": "AdvancedBuildDestruct",
-    "version_number": "1.0.7",
-    "website_url": "https://github.com/xiaoye97/xiaoye97-BepInex-Plugins/tree/master/Dyson%20Sphere%20Program/AdvancedBuildDestruct",
-    "description": "Better build and destruct. 更好的建造和拆除。",
-    "dependencies": [
-        "xiaoye97-BepInEx-5.4.5"
-    ]
-}

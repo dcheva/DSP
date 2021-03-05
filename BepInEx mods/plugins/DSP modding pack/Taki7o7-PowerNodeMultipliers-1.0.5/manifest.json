@@ -1,9 +1,0 @@
-{
-  "name": "PowerNodeMultipliers",
-  "version_number": "1.0.5",
-  "website_url": "https://github.com/WaGi-Coding/Taki_DSP-Mods",
-  "description": "Set Multipliers for Connection-Distance & Cover-Radius of Tesla Towers, Wireless Power Station & Satellite Substations. Also you can set a Wireless Charging Power Multiplier to charge faster.",
-  "dependencies": [
-    "xiaoye97-BepInEx-5.4.5"
-  ]
-}

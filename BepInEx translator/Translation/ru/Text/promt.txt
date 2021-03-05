@@ -234,7 +234,7 @@ Control=Управление
 Controlled annihilation reaction=Контролируемая реакция аннигиляции
 Conversion rate=Коэффициент конверсии
 ---
-Converting fuel energy into core energy through the Fuel chamber will recover the core energy of the mecha. The Fuel chamber's power is higher, the speed of energy recovery is faster.\n\nIn the early stage, gathering trees and plants on the planet can obtain two primary fuels: <color%3D"#FD965ECC">Logs</color> and <color%3D"#FD965ECC">Plant fuels</color>. <color%3D"#FD965ECC">Coals</color> are also good fuel choices.\nHigh-grade fuels not only contain more energy than low-grade fuel, but they also increase the mecha fuel power, allowing the mecha to recover energy more quickly.\n\nIn addition to the Fuel chamber, the mecha core also comes with a weak power generation.\n\nYou can move the mouse to the value at the right of the core energy bar to view the specific usage details.=Преобразование энергии топлива в энергию ядра через топливную камеру будет восстанавливать энергию ядра меха. Чем выше мощность топливной камеры, тем выше скорость рекуперации энергии.\n\nНа ранней стадии, собирая деревья и растения на планете, можно получить два основных вида топлива:<color%3D"#FD965ECC">Журналы</color> и <color%3D"#FD965ECC">Растительное топливо</color>. <color%3D"#FD965ECC">Угли</color> также хороший выбор топлива.\nВысококачественное топливо не только содержит больше энергии, чем низкосортное топливо, но также увеличивает мощность топлива меха, позволяя меху быстрее восстанавливать энергию.\n\nВ дополнение к топливной камере, ядро меха также имеет слабую выработку энергии.\n\nВы можете переместить указатель мыши на значение справа от шкалы энергии ядра,\nчтобы просмотреть конкретные сведения об использовании.
+Converting fuel energy into core energy through the Fuel chamber will recover the core energy of the mecha. The Fuel chamber's power is higher, the speed of energy recovery is faster.\n\nIn the early stage, gathering trees and plants on the planet can obtain two primary fuels: <color%3D"#FD965ECC">Logs</color> and <color%3D"#FD965ECC">Plant fuels</color>. <color%3D"#FD965ECC">Coals</color> are also good fuel choices.\nHigh-grade fuels not only contain more energy than low-grade fuel, but they also increase the mecha fuel power, allowing the mecha to recover energy more quickly.\n\nIn addition to the Fuel chamber, the mecha core also comes with a weak power generation.\n\nYou can move the mouse to the value at the right of the core energy bar to view the specific usage details.=Преобразование энергии топлива в энергию ядра через топливную камеру будет восстанавливать энергию ядра меха. Чем выше мощность топливной камеры, тем выше скорость рекуперации энергии.\n\nНа ранней стадии, собирая деревья и растения на планете, можно получить два основных вида топлива:<color%3D"#FD965ECC">Журналы</color> и <color%3D"#FD965ECC">Ветки</color>. <color%3D"#FD965ECC">Угли</color> также хороший выбор топлива.\nВысококачественное топливо не только содержит больше энергии, чем низкосортное топливо, но также увеличивает мощность топлива меха, позволяя меху быстрее восстанавливать энергию.\n\nВ дополнение к топливной камере, ядро меха также имеет слабую выработку энергии.\n\nВы можете переместить указатель мыши на значение справа от шкалы энергии ядра,\nчтобы просмотреть конкретные сведения об использовании.
 Conveyor Belt and Sorter=Конвейерная лента и сортировщик
 Conveyor belt MK.II=Конвейерная лента МК.II
 Conveyor belt MK.III=Конвейерная лента МК.III
@@ -311,7 +311,6 @@ Dyson sphere stress system=Система напряжения сферы Дай
 EM-Rail Ejector=EM-Rail выталкиватель
 Each construction drone can perform more construction tasks at one time.=Каждый строительный дрон может выполнять несколько строительных задач одновременно.
 Each mining operation consumes fewer veins and the mining speed is faster.=Каждая операция добычи потребляет меньше жил и скорость добычи выше.
-Early Access 0.6.15.5678=Ранний доступ 0.6.15.5678
 Eject speed\r\nWork consumption\r\nIdle consumption\r\nMade in\r\nHand-make\r\n=Скорость извлечения\r\nРасход работы\r\nхолостой ход\r\nСделано в\r\nДелать руками
 Electric motor=Электрический двигатель
 Electromagnetic drive=Электромагнитный привод
@@ -457,7 +456,7 @@ In the field of materials, the emergence of graphene is a great breakthrough. Wh
 In the future, human beings enter the ranks of advanced civilizations, and the power of science and technology brings rapid development. People use virtual reality to iterate space and time, create a virtual universe much larger than the real world, and gradually transfer human consciousness to the virtual universe.\n\nThe operation of the virtual world requires supercomputing power. For this reason, human beings circle the sun and create a supercomputer, the CentreBrain, hoping to use its powerful computing power to expand the virtual home. The computing power of the CentreBrain gradually reaches its limit because the number of consciousness continues to grow. If want to accommodate more consciousness, it needs more energy supply. So, the COSMO launched an engineering project code-named Dyson Sphere Program, sending engineers to the real world to build the Dyson sphere to provide continuous and stable energy for the CentreBrain. As a member of COSMO and the pioneer of the Dyson Sphere Program, you will control the mecha on an unknown journey by using the terminal. You need gather resources, plan and design production lines, gradually realize full automation, starting from scratch. And transform your factory from a small workshop, developing into a magnificent inter-galactic industrial empire, and finally built a great miracle, the Dyson Sphere.\n\nBuilders of great civilizations! In this process, you are bound to encounter many difficulties. After all, the universe is so large that anything can happen. However, your creativity and imagination will help you accomplish this great goal. The entire cluster will become the cornerstone of human civilization under your plan.=<size%3D"16">В будущем, люди войдут в ряды высокоразвитых цивилизаций, а сила науки и технологий приведет к быстрому развитию. Люди используют виртуальную реальность для репликации пространства и времени, создания виртуальной Вселенной, намного большей, чем реальный мир, и постепенного переноса человеческого сознания в виртуальную Вселенную. Работа виртуального мира требует суперкомпьютерной мощности.\r\n\nИменно по этой причине, люди кружат вокруг солнца и создают суперкомпьютер CentreBrain, надеясь использовать его мощные вычислительные мощности для расширения виртуального дома. Вычислительные возможности CentreBrain постепенно достигают своего предела, потому что количество сознаний продолжает расти. Если Вы хотите вместить больше сознания, ему нужно больше энергии.\r\nИтак, COSMO запустила инженерный проект под кодовым названием Dyson Sphere Program (Сфера Дайсона), отправив инженеров в реальный мир, чтобы обеспечить непрерывную и стабильную энергию для CentreBrain.\r\n\nКак член COSMO и пионер программы Dyson Sphere, Вы будете управлять мехом в неизвестном путешествии с помощью терминала. Вам нужно собрать ресурсы, спланировать и спроектировать производственные линии, постепенно реализовать полную автоматизацию, начиная с нуля.\nИ - превратить маленькую мастерскую в великолепную межгалактическую промышленную империю, чтобы построить великое чудо - Сферу Дайсона!\n\nСтроители великих цивилизаций!\nВ этом процессе Вы обязательно столкнетесь со многими трудностями. В конце концов, Вселенная настолько велика, что может случиться все, что угодно. Однако Ваше творчество и воображение помогут Вам достичь этой великой цели. По Вашему плану весь кластер станет краеугольным камнем человеческой фантазии.</size>
 
 In the planet view mode, slide the <color%3D"#61D8FFc0">[Mouse Wheel]</color> to enter the Starmap Mode.=В режиме обзора планеты прокрутите <color%3D"#61D8FFc0">[Колесико мыши]</color> для входа в режим звездной карты.
-In the planet view mode, you can hold down the <color%3D"#61D8FFc0">[Middle Mouse Button]</color> drag, rotate the angle of view, and hold down the <color%3D"#61D8FFc0">[Right Mouse Button]</color> drag to roll the angle of view, press <color%3D"#61D8FFc0">[N]</color> key to point to the front to the north pole.=В режиме просмотра планеты. Удерживайте <color%3D"#61D8FFc0">[Среднюю кнопка мыши]</color> и перетащите, чтобы повернуть угол обзора.\r\nУдерживайте <color%3D"#61D8FFc0">[Правую кнопку мыши]</color> и перетащите, чтобы изменить угол обзора, нажмите <color%3D"#61D8FFc0">[N]</color>, чтобы указать на северный полюс.
+In the planet view mode, you can hold down the <color%3D"#61D8FFc0">[Middle Mouse Button]</color> drag, rotate the angle of view, and hold down the <color%3D"#61D8FFc0">[Right Mouse Button]</color> drag to roll the angle of view, press <color%3D"#61D8FFc0">[N]</color> key to point to the front to the north pole.=В режиме просмотра планеты. Удерживайте <color%3D"#61D8FFc0">[Среднюю кнопку мыши]</color> и перетащите, чтобы повернуть угол обзора.\r\nУдерживайте <color%3D"#61D8FFc0">[Правую кнопку мыши]</color> и перетащите, чтобы изменить угол обзора, нажмите <color%3D"#61D8FFc0">[N]</color>, чтобы указать на северный полюс.
 In this mode, laying foundation can <color%3D"#61D8FFC0">restore</color> the buried veins. There can be no buildings in the restoration point, otherwise the function will be invalid. Click to switch to the "Veins bury" mode.=В этом режиме можно закладывать фундамент.<color%3D"#61D8FFC0">восстановить</color> погребенные жилы. В точке восстановления не может быть построек, иначе функция не работает. Щелкните, чтобы перейти в режим «Зарыть жилы».
 In this mode, laying foundation can <color%3D"#FD965EC0">bury</color> the veins underground, click to switch to the "veins restore" mode.=В этом режиме можно закладывать фундамент.<color%3D"#FD965EC0">хоронить</color> жилы под землей, нажмите, чтобы переключиться в режим «восстановления жил».
 In transit=В процессе перевозки
@@ -681,7 +680,7 @@ Orbit radius=Радиус орбиты
 Orbital Collector=Орбитальный коллектор
 Orbital period=Орбитальный период
 Ordinary fuel. Obtained from trees, has low energy.=Обычное топливо. Добывается с деревьев, имеет низкую энергию.
-Organic crystal can be obtained by processing the three resources of wood, plant fuel and water.=Органический кристалл можно получить, обработав три ресурса: древесину, растительное топливо и воду.
+Organic crystal can be obtained by processing the three resources of wood, plant fuel and water.=Органический кристалл можно получить, обработав три ресурса: древесину, Ветки и воду.
 Organic crystal=Органический кристалл
 Output priority=Приоритет вывода
 Output=Вывод
@@ -714,7 +713,7 @@ Planetary Logistics Station=Планетарная станция логисти
 Planetary ionosphere utilization=Использование ионосферы планеты
 Planetary logistics system=Планетарная система логистики
 Planet’s axial inclination=Наклон оси планеты
-Plant fuel=Растительное топливо
+Plant fuel=Ветки
 Plant=Завод
 Plasma exciter=Плазменный возбудитель
 Plasma extract refining=Очистка экстракта плазмы
@@ -1469,24 +1468,19 @@ Mecha panel (C)=Панель Mecha (C)
 
 You built a Wireless Power Tower, which is suitable with long-distance power transmission caused by its longer connection distance. <color%3D"#61D8FFc0">What's exciting is that it can also charge mecha by using electricity from the grid!</color>=Вы построили Wireless Power Tower, которая подходит для передачи электроэнергии на большие расстояния из-за большего расстояния подключения. <color%3D"#61D8FFc0">Что интересно, он также может заряжать мех, используя электричество из сети!</color>
 Details display (H)=Отображение подробностей (H)
-Set game speed to 3 x default=Установите скорость игры в 3 раза по умолчанию
-Game Speed (3x)=Скорость игры (3x)
+
 Inventory (E)=Инвентарь (E)
 Starmap (V)=Звездная карта (V)
 
-Set game speed to 2 x default=Установите скорость игры в 2 раза по умолчанию
-Game Speed (2x)=Скорость игры (2x)
-
 Angle too wide=Слишком широкий угол
 Dismantle Smelter MK. I\r\nHolding [SHIFT] - Chain Dismantle=Демонтаж плавильного завода МК. я\r\nУдержание [Шифт] - демонтаж цепи
-Set game speed to 1 x default=Установите скорость игры на 1 x по умолчанию
-Game Speed (1x)=Скорость игры (1x)
 
 Dismantle Tesla tower\r\nHolding [SHIFT] - Chain Dismantle=Демонтировать башню Тесла\r\nУдержание [Шифт] - демонтаж цепи
 Endpoint must be horizontal=Конечная точка должна быть горизонтальной
 \r\nResearching <color%3D"#FD965EC0">Energy circuit-level1</color>=Исследования <color%3D"#FD965EC0">Энергетическая цепь-уровень 1</color>
 Statistics panel (P)=Панель статистики (P)
-Mecha now has more fuel generation. As long as there is fuel in the fuel chamber it can recover its core energy faster.=Меха теперь производит больше топлива. Пока в топливной камере есть топливо, она может быстрее восстанавливать энергию ядра.
+Mecha now has more fuel generation. As long as there is fuel in the fuel chamber it can recover its core energy faster.=Мех теперь производит больше топлива. Пока в топливной камере есть топливо, он может быстрее восстанавливать энергию ядра.
+The energy recovery rate of the mecha is related to the power of the fuel chamber. The greater the fuel power generation, the faster the conversion of fuel into energy.=Скорость восстановления энергии меха зависит от мощности топливной камеры. Чем больше вырабатывается топливная энергия, тем быстрее происходит преобразование топлива в энергию.
 Energy circuit-level1=Энергетическая цепь-уровень 1
 You can now view the Vein Reserves of the entire planetary system. It is easier to plan different production lines.=Теперь Вы можете просматривать Жилые Запасы всей планетной системы. Проще планировать разные производственные линии.
 Universe exploration-level2=Уровень исследования Вселенной 2
@@ -1634,4 +1628,28 @@ F3=F3
 F2=F2
 F1=F1
 
-The energy recovery rate of the mecha is related to the power of the fuel chamber. The greater the fuel power generation, the faster the conversion of fuel into energy.=Скорость восстановления энергии меха зависит от мощности топливной камеры. Чем больше вырабатывается топливная энергия, тем быстрее происходит преобразование топлива в энергию.
+
+
+0.6.17.5827=0.6.17.5827
+
+
+
+Early Access 0.6.17.5827=\n
+Early Access 0.6.17.5827\r\nGoldberg=\n
+Creator=Создатель
+Goldberg=\n
+Power generation by Dyson spheres=Производство электроэнергии\r\nсферами Дайсона
+
+Drone Clearing Enabled=Автодобыча включена
+Click to disable drone clearing\n(Available drones assigned.)=Доступные дроны назначены собирать ресурсы поблизости
+Drone Clearing Disabled=Автодобыча отключена
+Click to enable drone clearing=Дроны не будут собирать ресурсы
+Click to disable drone clearing\n(Waiting for energy.)=Откличите автодобычу\n(Не хватает энергии)
+Click to disable drone clearing\n(No more items in range.)=Откличите автодобычу\n(Поблизости нет ресурсов)
+
+Set game speed to 1 x default=Установите скорость 1х\r\nкнопкой <color%3D"#FD965EC0">Альт + 1</color>
+Game Speed (1x)=Скорость игры (1x)
+Set game speed to 2 x default=Установите скорость 2х\r\nкнопкой <color%3D"#FD965EC0">Альт + 2</color>
+Game Speed (1x)=Скорость игры (2x)
+Set game speed to 3 x default=Установите скорость 3х\r\nкнопкой <color%3D"#FD965EC0">Альт + 3</color>
+Game Speed (1x)=Скорость игры (3x)
