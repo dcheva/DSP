@@ -1,0 +1,7 @@
+{
+  "name": "RenderDistance",
+  "version_number": "0.6.5",
+  "website_url": "https://github.com/sp00ktober/DSP_Mod",
+  "description": "Adds a new setting that lets you change the distance at which assets on planets get rendered.",
+  "dependencies": []
+}

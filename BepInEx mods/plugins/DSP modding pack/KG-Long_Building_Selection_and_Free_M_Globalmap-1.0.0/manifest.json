@@ -1,0 +1,9 @@
+{
+    "name": "Long_Building_Selection_and_Free_M_Globalmap",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Now your building selection distance is bigger, you can open building from any point in planet. M button (globalmap) not blocking your UI, so you can use it and open any building",
+    "dependencies": [
+        "xiaoye97-BepInEx-5.4.5"
+    ]
+}

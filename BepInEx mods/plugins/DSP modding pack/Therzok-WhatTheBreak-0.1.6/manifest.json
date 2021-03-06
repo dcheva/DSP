@@ -1,0 +1,7 @@
+{
+  "name": "WhatTheBreak",
+  "version_number": "0.1.6",
+  "website_url": "https://github.com/Therzok/dsp_modding",
+  "description": "Allows you to easily copy diagnostic information about mods and report to developers.",
+  "dependencies": [ "xiaoye97-BepInEx-5.4.5" ]
+}

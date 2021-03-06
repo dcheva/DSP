@@ -1,0 +1,10 @@
+{
+    "name": "AdvancedMiner",
+    "version_number": "1.0.5",
+    "website_url": "https://github.com/kremnev8/DSP-Mods",
+    "description": "Adds new Mining drill Mk.II that has increased range.",
+    "dependencies": [
+        "xiaoye97-LDBTool-1.8.0",
+		"xiaoye97-BepInEx-5.4.5"
+    ]
+}

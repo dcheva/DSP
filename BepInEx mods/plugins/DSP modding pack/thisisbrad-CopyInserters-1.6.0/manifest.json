@@ -1,0 +1,9 @@
+{
+    "name": "CopyInserters",
+    "version_number": "1.6.0",
+    "website_url": "https://github.com/fezhub/DSP-Mods",
+    "description": "When copying a building, the attached inserters are also copied!",
+    "dependencies": [
+        "xiaoye97-BepInEx-5.4.5"
+    ]
+}
